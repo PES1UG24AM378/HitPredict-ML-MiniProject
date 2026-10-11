@@ -1,0 +1,4 @@
+model,train_acc,test_acc,precision,recall,f1,roc_auc,pr_auc
+RF balanced weights,0.953,0.948,0.262,0.84,0.4,0.955,0.365
+LogReg balanced weights,0.928,0.929,0.2,0.804,0.321,0.934,0.333
+LogReg NO weights (baseline),0.98,0.979,0.441,0.039,0.071,0.842,0.181

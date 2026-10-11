@@ -1,0 +1,6 @@
+model,train_acc,test_acc,precision,recall,f1,roc_auc,cv_auc_train
+Random Forest,0.937,0.912,0.939,0.881,0.909,0.955,0.943
+Gradient Boosting,1.0,0.903,0.922,0.881,0.901,0.949,0.94
+Logistic Regression,0.845,0.857,0.906,0.796,0.847,0.928,0.911
+Neural Net (MLP),0.967,0.85,0.854,0.845,0.849,0.907,0.889
+SVM (RBF),0.834,0.805,0.803,0.809,0.806,0.895,0.875
